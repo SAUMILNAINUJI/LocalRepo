@@ -7,4 +7,9 @@ p{
     color: yellow;
     font-size: 1rem;
     font-family: Georgia;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 10vh;
+    
 }
